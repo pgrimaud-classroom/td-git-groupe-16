@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 #text students
 
 Quisque interdum lorem dui, quis luctus est iaculis id. Integer laoreet libero sed congue congue. Curabitur ultrices, sapien nec placerat volutpat, augue orci viverra nisi, vel aliquet ipsum eros ac mauris. Integer sed aliquet sem. Suspendisse tempus at lectus non hendrerit. Fusce sit amet dolor dignissim, tempor mi ac, convallis metus. Sed accumsan libero sed dapibus imperdiet. Integer imperdiet arcu non placerat pharetra. Curabitur congue pharetra purus, eu congue risus varius eget. Sed cursus accumsan tortor, eu cursus mi tempor id. Quisque in dignissim dolor, nec fermentum nulla. Aliquam erat dui, vehicula ac elementum quis, finibus sit amet sapien. Donec tellus eros, scelerisque et porta quis, commodo et mauris. Integer sed commodo lacus. Integer tincidunt massa semper elit faucibus bibendum. 
+=======
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut dapibus libero. Cras libero lectus, euismod et rutrum eget, iaculis dapibus neque. Nullam luctus purus eu sapien pulvinar, ac maximus odio convallis. Aenean semper bibendum nunc, aliquet fringilla justo congue ultricies. Sed finibus iaculis lorem. Proin ac sapien luctus lectus molestie dignissim. Cras scelerisque interdum finibus. Morbi nec cursus lorem, in mollis ante. Donec feugiat mollis imperdiet. 
+>>>>>>> 58c15ec061ea6d77d6af393a332014f984809cab
